@@ -1,4 +1,4 @@
-# 🤖 Discord Bot Naylor
+# 🤖 Naylor Discord
 
 Este projeto é uma estrutura base para criar um bot do Discord utilizando a biblioteca `discord.js`, com um sistema modular para carregar comandos e eventos de forma organizada.
 
